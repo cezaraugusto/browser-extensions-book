@@ -21,6 +21,14 @@ staying up-to-date with things they like, or just looking to improve their brows
 who code are programmers, but they are all builders. This book is for all the people interested in creating extensions.
 All the builders. All of us. :)
 
+## What this book will cover?
+
+Chapters propoposed for this book and other information are available in the [wiki](https://github.com/cezaraugusto/web-extensions-for-the-builders/wiki).
+
+## I'd like to contribute!
+
+The book is in early stage at the moment, but I'd appreciate to hear your thoughts. Please shoot me a message via DM [on Twitter](https://twitter.com/cezaraugusto). (DMs open).
+
 ## License
 
 [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
